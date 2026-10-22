@@ -1,0 +1,10 @@
+ref,type,customer_first_name,product_or_job,status,detail_the_agent_may_quote
+DC-1001,order,Alex,Terra G3 size M,Shipped,Carrier collected - in transit per carrier scan in file - no delivery date stated
+DC-1002,order,Sam,Ventus R7 size 54cm,Processing,Order confirmed - not yet shipped per file
+DC-1003,order,Jordan,Gravel Tyre 700x38 x2,Delivered,Marked delivered in file
+DC-1004,order,Taylor,Volt City size M,Shipped,Carrier collected - delayed at carrier depot per file - no new date stated
+DC-1005,order,Casey,Ventus R9 size 54cm,Processing,Awaiting build check before shipping per file
+WS-2001,workshop,Riley,Full service - Terra G5,Booked,Booked in file - no stage beyond booked stated
+WS-2002,workshop,Alex,Brake bleed - Peak H3,In progress,With mechanic per file - no completion time stated
+WS-2003,workshop,Sam,Gear tune - Ventus R7,Ready for collection,Ready per file - customer notified per file
+WS-2004,workshop,Jamie,Warranty assessment - Ventus R9,Waiting on complete packet,Photos received - serial and proof of purchase still missing per file

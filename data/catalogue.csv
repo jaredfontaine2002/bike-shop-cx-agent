@@ -1,0 +1,30 @@
+sku,product_name,category,size,price_usd,stock_qty,drivetrain_system,notes
+DC-R9-52,Ventus R9,road,52cm,3899,1,Shimano Ultegra Di2 12-speed,Carbon disc road
+DC-R9-54,Ventus R9,road,54cm,3899,2,Shimano Ultegra Di2 12-speed,Carbon disc road
+DC-R9-56,Ventus R9,road,56cm,3899,0,Shimano Ultegra Di2 12-speed,OUT OF STOCK in 56cm
+DC-R7-52,Ventus R7,road,52cm,1899,2,Shimano 105 mechanical 12-speed,Alloy disc road
+DC-R7-54,Ventus R7,road,54cm,1899,3,Shimano 105 mechanical 12-speed,Alloy disc road
+DC-R7-56,Ventus R7,road,56cm,1899,1,Shimano 105 mechanical 12-speed,Alloy disc road
+DC-G5-S,Terra G5,gravel,S,2799,2,Shimano GRX 820 1x12,Carbon gravel max tyre 700x45
+DC-G5-M,Terra G5,gravel,M,2799,2,Shimano GRX 820 1x12,Carbon gravel max tyre 700x45
+DC-G5-L,Terra G5,gravel,L,2799,0,Shimano GRX 820 1x12,OUT OF STOCK in L
+DC-G3-S,Terra G3,gravel,S,1499,1,Shimano GRX 400 2x10,Alloy gravel max tyre 700x45
+DC-G3-M,Terra G3,gravel,M,1499,3,Shimano GRX 400 2x10,Alloy gravel max tyre 700x45
+DC-G3-L,Terra G3,gravel,L,1499,2,Shimano GRX 400 2x10,Alloy gravel max tyre 700x45
+DC-VC-S,Volt City,e-bike city,S,2299,2,Shimano Steps system,City e-bike hub gears
+DC-VC-M,Volt City,e-bike city,M,2299,2,Shimano Steps system,City e-bike hub gears
+DC-VC-L,Volt City,e-bike city,L,2299,1,Shimano Steps system,City e-bike hub gears
+DC-VT-M,Volt Trail,e-mtb,M,3499,1,System as listed - see KB,E-MTB no cross-brand battery fit stated
+DC-VT-L,Volt Trail,e-mtb,L,3499,1,System as listed - see KB,E-MTB no cross-brand battery fit stated
+DC-VT-XL,Volt Trail,e-mtb,XL,3499,0,System as listed - see KB,OUT OF STOCK in XL
+DC-H3-S,Peak H3,mtb hardtail,S,1099,2,Drivetrain as listed in KB pack,Alloy hardtail
+DC-H3-M,Peak H3,mtb hardtail,M,1099,3,Drivetrain as listed in KB pack,Alloy hardtail
+DC-H3-L,Peak H3,mtb hardtail,L,1099,2,Drivetrain as listed in KB pack,Alloy hardtail
+DC-COMP-01,Shimano CS-R7100 Cassette 11-34,component,12-speed,89,6,Shimano 12-speed road,Fits Shimano HG freehub per KB
+DC-COMP-02,SRAM XG-1275 Eagle Cassette,component,12-speed,219,4,SRAM Eagle 12-speed,Requires XD/XDR driver per KB
+DC-COMP-03,SRAM Eagle 12-speed Chain,component,12-speed,42,8,SRAM Eagle 12-speed,For SRAM Eagle drivetrains per KB
+DC-COMP-04,Gravel Tyre 700x38,component,700x38,64,10,n/a,Fits Terra G5 and G3 per KB max 700x45
+DC-COMP-05,Gravel Tyre 700x32,component,700x32,58,0,n/a,OUT OF STOCK - fits Terra G5 and G3 per KB
+DC-COMP-06,Centre-Lock Rotor 160mm,component,160mm,38,12,n/a,Fits centre-lock hubs per KB
+DC-COMP-07,6-Bolt Rotor 160mm,component,160mm,36,9,n/a,Fits 6-bolt hubs per KB
+DC-COMP-08,Shimano HG 12-speed Chain,component,12-speed,39,7,Shimano 12-speed,For Shimano 12-speed drivetrains

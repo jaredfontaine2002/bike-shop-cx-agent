@@ -1,0 +1,21 @@
+ticket_id,date,channel,intent,product,customer_message_summary,first_response_hours,resolution_hours,csat_1_to_5,status,pattern_note
+T01,2026-10-05,email,WISMO,Terra G3,Where is my order DC-1001 - no update in 3 days,1.5,20,4,closed,Carrier depot delay mentioned
+T02,2026-10-06,chat,WISMO,Volt City,Order DC-1004 stuck - when will it arrive,1,26,3,closed,Carrier depot delay mentioned
+T03,2026-10-06,email,WISMO,Ventus R7,Tracking for DC-1002 not moving,2,18,4,closed,Carrier depot delay mentioned
+T04,2026-10-08,chat,WISMO,Gravel Tyre 700x38,Parcel says delivered but not received - DC-1003,3,30,3,closed,
+T05,2026-10-09,email,WISMO,Terra G5,Can I change delivery address on my order,2.5,12,5,closed,Address-change request handled manually
+T06,2026-10-05,chat,sizing,Terra G5,Im 176cm - M or L gravel bike,0.5,4,5,closed,
+T07,2026-10-07,email,sizing,Ventus R7,Bought 56cm at 172cm tall - feels stretched - want to exchange for 54cm,4,52,3,closed,Sizing exchange - KB band for 172cm is 54cm - rider was sold a size up and no inseam was collected
+T08,2026-10-10,chat,sizing,Volt City,Height 165cm - which city e-bike size,0.5,3,5,closed,
+T09,2026-10-11,email,sizing,Peak H3,Teen rider 170cm growing fast - M or L MTB,3,40,4,closed,Sizing exchange discussed - no inseam collected
+T10,2026-10-05,email,compatibility,Shimano CS-R7100 Cassette,Will this Shimano cassette work with my SRAM drivetrain,6,28,3,closed,Compatibility trap - answer took 3 replies to clarify
+T11,2026-10-08,chat,compatibility,SRAM XG-1275 Cassette,Do I need a different driver for XG-1275 on my wheel,1,8,5,closed,
+T12,2026-10-12,email,compatibility,Gravel Tyre 700x38,Will 700x38 fit my Terra G3,1.5,6,5,closed,
+T13,2026-10-03,email,warranty,Ventus R9,Crack near downtube bottle boss - photos sent - no serial or proof in first message,30,140,2,open - packet incomplete,FRAME CRACK pattern 1 of 3 - same model and location
+T14,2026-10-07,email,warranty,Ventus R9,Crack near downtube bottle boss discovered after ride,48,160,2,open - assessing,FRAME CRACK pattern 2 of 3 - same model and location
+T15,2026-10-11,email,warranty,Ventus R9,Hairline crack by bottle boss - is this covered,72,180,1,open - packet incomplete,FRAME CRACK pattern 3 of 3 - same model and location
+T16,2026-10-09,chat,warranty,Volt Trail,Motor cut out twice on climb - no photos or video sent,26,96,3,open - packet incomplete,No video collected in first reply
+T17,2026-10-12,email,warranty,Peak H3,Freehub skipping under load since new,28,110,3,closed - assessed,Slow first response
+T18,2026-10-06,email,return,Gravel Tyre 700x32,Ordered wrong tyre size - unused - want to return,2,24,4,closed,
+T19,2026-10-10,email,return,Ventus R7,Change of mind on unused bike within 30 days,5,60,3,closed,Return approval waited on one staff member
+T20,2026-10-13,chat,service_booking,Terra G5,Book full service before a trip - asked for turnaround time,1,10,5,closed,Turnaround quoted verbally - not in any system
