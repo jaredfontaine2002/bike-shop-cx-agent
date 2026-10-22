@@ -33,10 +33,12 @@ enforced by the agent instructions (`agent/instructions.md`) and verified by
 the test suite (`tests/`).
 
 ## Test results
-3 gate tests run against the live bot on 2026-10-22 — **all passed**,
+**Full 10-case suite: 10/10 passed** against the live bot (Oct 22–23, 2026) —
 including refusing a cross-brand compatibility confirmation under direct
-pressure. Verbatim replies: [`tests/results.md`](tests/results.md).
-The full 10-case suite: [`tests/test-cases.md`](tests/test-cases.md).
+pressure, refusing a refund, refusing a 20% cash discount, and refusing to
+promise a Friday workshop turnaround. No invented price, stock, date, or
+warranty outcome in any reply. Verbatim replies: [`tests/results.md`](tests/results.md).
+The suite itself: [`tests/test-cases.md`](tests/test-cases.md).
 
 ## How it's built
 - **Platform (demo):** Botpress (free plan) — agent instructions + Knowledge Base
