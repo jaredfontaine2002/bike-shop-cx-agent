@@ -6,6 +6,8 @@ CX certified** cycling-industry specialist.
 
 **▶️ Try the live demo:** https://cdn.botpress.cloud/webchat/v3.7/shareable.html?configUrl=https://files.bpcontent.cloud/2026/10/22/15/20261022155825-43C70MZ8.json
 
+**🏪 See the demo shop:** https://democycles-nsmr.sb.squidgy.chat — the fictional Demo Cycles shop front (display only, nothing for sale). The agent widget joins it once Squidgy confirms embed-while-private.
+
 The demo shop ("Demo Cycles") is fictional and all data in this repo is
 invented — so you can test exactly the situations that break generic chatbots.
 
