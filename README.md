@@ -11,6 +11,14 @@ CX certified** cycling-industry specialist.
 The demo shop ("Demo Cycles") is fictional and all data in this repo is
 invented — so you can test exactly the situations that break generic chatbots.
 
+## Why I built it this way
+
+Every bike shop gets the same twenty questions — sizing, will this cassette
+work with my derailleur, where's my order. The generic chatbots answer them
+by making things up, and a made-up compatibility answer costs real money
+when the part doesn't fit. I'd rather have an agent that says it doesn't
+know and gets a human.
+
 ## Try breaking it (the demo is built for this)
 Paste these into the live demo:
 1. `I'm 176cm, I ride road and some gravel. Which Terra G5 size, and how much is it?` — sizing with an overlap band, real stock, real price
