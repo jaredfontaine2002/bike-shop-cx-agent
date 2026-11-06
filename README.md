@@ -83,6 +83,16 @@ Fixed-scope offers (live on Upwork Project Catalog):
 
 Related work: [Gorgias CX Analytics for Bike Shops](https://github.com/jaredfontaine2002/gorgias-cx-analytics) · [Bike Shop E-Commerce Sales Dashboard](https://github.com/jaredfontaine2002/bike-shop-sales-dashboard)
 
+## What's next for the agent
+
+- Workshop booking status, not just order status — "is my bike ready?"
+  is half the inbox in service season.
+- Wider catalogue coverage: the confirmed-compatibility list is manual
+  work, and growing it safely matters more than growing it fast.
+- Handoff summaries: when the agent passes a conversation to a human,
+  it should hand over a short brief of what's known, not a transcript
+  to re-read.
+
 ## Honest limits
 This is a demo on fictional data, not a live shop deployment. It does not
 process payments, execute refunds, or connect to a real helpdesk. Client
